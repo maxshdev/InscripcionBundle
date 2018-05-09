@@ -63,6 +63,6 @@ imports:
 
 ```
 
-## Author
+## Autor y Soporte
 
-MaxSHDev - max.shtefec@gmail.com
+Max, N. Shtefec - max.shtefec@gmail.com
